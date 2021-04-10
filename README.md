@@ -1,4 +1,4 @@
-<h1 align="center">Hack36 Template Readme</h1>
+<h1 align="center">IntuBlock</h1>
 <p align="center">
 </p>
 
@@ -10,8 +10,8 @@ An enhanced and up-to-date blockchain intuition tool built from scratch for bett
 ## Table of Contents:
 Concept | Description 
 --- | --- 
-SHA256 Encryption | Generaton of SHA256 hash for input fields.
-Block | Changes in Hash value on user input. Mining to find suitable Nonce.
+SHA256 Encryption | Generation of SHA256 hash for input data.
+Block | Changes in hash value on user input. Mining to find suitable Nonce.
 Blockchain | Implementation of all basic functionalities in Blockchain
 
 
