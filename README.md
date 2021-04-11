@@ -4,6 +4,8 @@
 
 ## Team Name: Vaptured tError
 
+* [Website for IntuBlock](https://intublock.web.app/)
+
 ## Introduction:
 An enhanced and up-to-date blockchain intuition tool built from scratch for better understanding and implementation of concepts. 
 
@@ -11,8 +13,8 @@ An enhanced and up-to-date blockchain intuition tool built from scratch for bett
 Concept | Description 
 --- | --- 
 SHA256 Encryption | Generation of SHA256 hash for input data.
-Block | Changes in hash value on user input. Mining to find suitable Nonce.
-Blockchain | Implementation of all basic functionalities in Blockchain
+Block | Changes in hash value on user input. Mining for suitable Nonce.
+Blockchain | Implementation of all basic functionalities in Blockchain.
 
 
 ## Technology Stack:
